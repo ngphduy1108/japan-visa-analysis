@@ -1,0 +1,6 @@
+pandas
+pyspark
+plotly
+pycountry-convert
+fuzzywuzzy
+python-Levenshtein

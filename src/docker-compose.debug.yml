@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  sparkcluster:
+    image: sparkcluster
+    build:
+      context: .
+      dockerfile: ./Dockerfile
